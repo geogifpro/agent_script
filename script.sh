@@ -18,4 +18,6 @@ nproc
 
 lsblk
 
+echo"  working smart is great, lets make 150K"
+
 
